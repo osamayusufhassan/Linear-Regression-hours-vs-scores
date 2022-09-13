@@ -1,4 +1,4 @@
-# Prediction of Student Test Scores based on Hours of Study
+# Prediction of Student Test Scores
 • Problem Statement: Create a model to predict the test scores of a class.<br />
 • Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), Model Evaluation using various metrics (mean absolute error, mean squared error, RMS and R-squared).<br />
 • Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
